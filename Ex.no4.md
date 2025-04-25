@@ -5,7 +5,7 @@ To Attach Rifle with character mesh and implementation bullet spawn from Rifle.
 ## Algorithm:
 1.
 2.
-3.
+3. adding input
 4.
 5.
 6.
